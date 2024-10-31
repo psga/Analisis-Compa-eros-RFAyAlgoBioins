@@ -4,50 +4,7 @@ import seaborn as sns
 from io import StringIO
 # Leer los datos
 data = '''Nombre,Carrera,Semestre,Intereses,Género
-Alejandro Giraldo Sarria,Ingeniería de control,10,Videojuegos,Masculino
-Sebastian Arango,Ingeniería de Sistemas e Informática,8,Videojuegos,Masculino
-Natalia Andrea Álvarez Hoyos,Ingeniería de Sistemas e Informática,10,Dibujar,Femenino
-Julián Castaño Pineda,Estadística,8,Trotar,Masculino
-Alejandra Rios Salgado,Estadística,10,Bailar,Femenino
-Alejandro Orozco Ochoa,Ingeniería de Sistemas e Informática,9,Música,Masculino
-Juan Pablo Gómez Reyes,Ingeniería de Sistemas e Informática,9,Videojuegos,Masculino
-Santiago Varela Vanegas,Ingeniería de Sistemas e Informática,10,Videojuegos,Masculino
-Hugo Andrés Mazo Pacheco,Ingeniería de Sistemas e Informática,13,Aprender herramientas de software y videojuegos,Masculino
-Andrés Alexis Galvis Herrera,Ingeniería de Sistemas e Informática,9,Lectura,Masculino
-Verónica Pérez Zea,Ingeniería de Sistemas e Informática,10,Bailar y Cine,Femenino
-Valentina Ospina Narváez,Ingeniería de Sistemas e Informática,10,Bailar,Femenino
-Alejandra Uribe Sierra,Ingeniería de Sistemas e Informática,10,Leer y bailar,Femenino
-Juan Esteban Quiroz Taborda,Ingeniería de Sistemas e Informática,10,Senderismo,Masculino
-Andres Felipe Callejas Ruiz,Ingeniería de Sistemas e Informática,8,Ilustración digital,Masculino
-Stefany Cantero Cárdenas,Ingeniería de Sistemas e Informática,10,Leer,Femenino
-Felipe Muñoz Echeverri,Ingeniería de Sistemas e Informática,8,Cine,Masculino
-Juan Manuel Vera Echeverri,Ingeniería de Sistemas e Informática,10,Videojuegos y Cine,Masculino
-Hernan Dario Tapias Martinez,Ingeniería de control,3,Aeromodelismo,Masculino
-Mateo Arenas Montoya,Ingeniería física,10,Correr por montaña,Masculino
-Juan Felipe López Ramírez,Ingeniería de Sistemas e Informática,10,Música,Masculino
-Jeronimo Ledesma Patiño,Ingeniería de Sistemas e Informática,8,Música,Masculino
-Maria Camila Zapata Arrubla,Ingeniería de Sistemas e Informática,9,Bailar y hacer ejercicio,Femenino
-Samuel Botero Rivera,Ingeniería física,8,Fotografía,Masculino
-Juan José Tobón Zapata,Ingeniería de Sistemas e Informática,9,Música,Masculino
-Pablo Andres Usuga,Ciencias De la Computación,8,Música,Masculino
-Julian David Diaz Jaramillo,Ingeniería de Sistemas e Informática,8,Videojuegos,Masculino
-Tomás Rodríguez Taborda,Ingeniería de Sistemas e Informática,8,Cine,Masculino
-Maria Del Pilar Mira Londoño,Estadística,11,Gimnasia,Femenino
-Catalina Restrepo Salgado,Ingeniería de Sistemas e Informática,8,Programación competitiva,Femenino
-Camilo Andrés Espíndola Aldana,Ingeniería de Sistemas e Informática,8,Música,Masculino
-Luis José Mejía Restrepo,Ingeniería de Sistemas e Informática,8,Leer,Masculino
-Miguel Fernando Olave Riascos,Ingeniería de Sistemas e Informática,8,Jugar baloncesto,Masculino
-Luis Andrés Altamar Romero,Ingeniería de Sistemas e Informática,8,Senderismo,Masculino
-Sebastián Aguinaga Velásquez,Ingeniería de Sistemas e Informática,9,Videojuegos,Masculino
-Juan Esteban Cadavid Arango,Ingeniería de Sistemas e Informática,8,Videojuegos,Masculino
-Carlos Sebastián Zamora Rosero,Ingeniería de Sistemas e Informática,10,Bailar,Masculino
-José Daniel Londoño Londoño,Ingeniería de Sistemas e Informática,8,Historia,Masculino
-Julián Orrego Martínez,Ingeniería de Sistemas e Informática,10,Películas,Masculino
-Juan Pablo Pineda Lopera,Ingeniería de Sistemas e Informática,8,Música,Masculino
-Paula Kern,Informática,5,Senderismo,Femenino
-Juan José Zapata Cadavid,Ingeniería de Sistemas e Informática,9,Videojuegos,Masculino
-Carolina Alvarez Murillo,Ingeniería de Sistemas e Informática,8,Leer,Femenino
-Juan Carlos Múnera Arango,Ingeniería de Sistemas e Informática,10,Senderismo,Masculino
+xxx
 '''  # Aquí iría todo el conjunto de datos
 import pandas as pd
 import matplotlib.pyplot as plt
